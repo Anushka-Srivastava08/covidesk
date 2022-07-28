@@ -1,0 +1,26 @@
+{
+  "name": "Total",
+  "children": [
+    {
+      "name": "AP",
+      "children": [
+        {
+          "name": "Total",
+          "value": "2500"
+        },
+        {
+          "name": "Recovered",
+          "value": "2100"
+        },
+        {
+          "name": "Deceased",
+          "value": "10"
+        },
+        {
+          "name": "Active",
+          "value": "390"
+        }
+      ]
+    }
+  ]
+}
